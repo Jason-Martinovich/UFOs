@@ -4,7 +4,7 @@ The purpose of this project was to build a dynamic webpage that allows users to 
 
 ## Results
 ### Homepage
-When the site visitor first lands on the homepage it appears like this and contaings the full list of available UFO sightings in the table. 
+When the site visitor first lands on the homepage it appears like this and contains the full list of available UFO sightings in the table. 
 
 ![](static/images/homepage.png)
 
