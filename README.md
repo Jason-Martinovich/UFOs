@@ -5,3 +5,13 @@ The purpose of this project was to build a dynamic webpage that allows users to 
 ## Results
 
 ![](static/images/homepage.png)
+
+![](static/images/date.png)
+
+![](static/images/city.png)
+
+![](static/images/state.png)
+
+![](static/images/county.png)
+
+![](static/images/shape.png)
